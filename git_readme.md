@@ -86,6 +86,7 @@ https://github.com/yvv4git/Lesson3
 ## [github](https://github.com/)
 
 - `git remote add origin https://github.com/DenisTafiy/git_gb_hw3.git` - добавление удаленного репозитория
+- `git remote -v` - 
 - `git branch -M main` - выбор основной ветки
 - `git push -u origin main` - загрузка проекта на удаленный репозиторий
 - `git push [удалённый репозиторий] [ветка]` - Загружает все изменения локальной ветки в удалённый репозиторий
